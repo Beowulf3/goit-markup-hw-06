@@ -479,7 +479,7 @@ section {
 .overlay-box {
   position: relative;
   overflow: hidden;
-  height: 240px;
+  height: 280px;
 }
 .overlay {
   padding: 40px 32px;
@@ -530,7 +530,7 @@ section {
     width: calc((100% - 24px) / 2);
   }
   .overlay-box {
-    height: 294px;
+    height: 300px;
   }
 }
 @media only screen and (min-width: 1158px) {
